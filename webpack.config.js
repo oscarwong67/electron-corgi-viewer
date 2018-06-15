@@ -51,6 +51,9 @@ module.exports = {
       }
      ]
   },
+  node: {
+    fs: 'empty'
+  },
   plugins: [
     // Makes some environment variables available to the JS code, for example:
     new webpack.DefinePlugin({

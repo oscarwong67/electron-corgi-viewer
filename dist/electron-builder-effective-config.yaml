@@ -1,0 +1,15 @@
+directories:
+  output: dist
+  buildResources: build
+appId: electron-r-corgi-viewer
+mac:
+  category: no-category
+dmg:
+  contents:
+    - x: 110
+      'y': 150
+    - x: 240
+      'y': 150
+      type: link
+      path: /Applications
+electronVersion: 1.8.7

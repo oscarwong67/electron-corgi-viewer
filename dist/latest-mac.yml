@@ -1,0 +1,10 @@
+version: 0.1.0
+files:
+  - url: electron-r-corgi-viewer-0.1.0-mac.zip
+    sha512: IwFJBy8BXh5IvXagGDgjwvdghrJ9Fdxh/GjVGBtaZuY20lFUCZR8iLbhP/LW2mAMinYVyMpnpKUEqxQadZNDug==
+  - url: electron-r-corgi-viewer-0.1.0.dmg
+    sha512: +HQ1lg7TzbrsmpTJjgPQ0tiLhMkR6LJw78HxPfngBfri04eJWYwT02fH9qdOKgcFv29QwaZZrLn8WwDHntDNyw==
+    size: 50376845
+path: electron-r-corgi-viewer-0.1.0-mac.zip
+sha512: IwFJBy8BXh5IvXagGDgjwvdghrJ9Fdxh/GjVGBtaZuY20lFUCZR8iLbhP/LW2mAMinYVyMpnpKUEqxQadZNDug==
+releaseDate: '2018-06-15T16:21:25.109Z'
